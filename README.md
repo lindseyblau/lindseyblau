@@ -5,4 +5,4 @@
 - I know Python, SQL, R, HTML, CSS, and JavaScript, PyTorch, NumPy, Pandas, and Scikit-Learn. 
 - I am currently working with BACKCOURT Business to conduct a sentiment analysis on tweets surrounding two target sports experiences. This analysis will be used to fuel business insights for BACKCOURT and sports tourism.
 - Check out my Fall AI Studio project with BACKCOURT here:  👉 [BACKCOURT FIFA Sentiment Analysis](https://github.com/vpliego/BTTAI---BACKCOURT-Team-19-)
-
+- Check out my Women in Data Sciencw 2025 Kaggle Competition here: 👉 [MIT WiDS Team 25](https://github.com/julia-epshtein/WiDS-Datathon-Team-25)  
